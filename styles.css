@@ -11,6 +11,12 @@ p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+p.quote {
+  color: #717579;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 h1 {
   color: #f0f6fc;
   font-family: Arial, Helvetica, sans-serif;
@@ -24,11 +30,4 @@ h2 {
 .avatar {
   border-radius: 50%;
   border-bottom: 1px solid #0d1117;
-}
-
-.table {
-  display: inline-block;
-  max-width: 370px;
-  border: 1px solid #6d6b6b;
-  border-radius: 5px;
 }
